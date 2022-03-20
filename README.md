@@ -1,4 +1,4 @@
-#University Landing Page
+University Landing Page
 
 ==Coding Exercise==
 

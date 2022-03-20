@@ -1,1 +1,1 @@
-https://mlmariscotes.github.io/University-Landing-Page/
+- https://mlmariscotes.github.io/University-Landing-Page/
